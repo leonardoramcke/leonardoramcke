@@ -43,10 +43,10 @@ Passionate about building practical tools, working with blockchain technology, a
 | Project | Description | Language | Stars |
 |---|---|---|---|
 | [bitcoin-recovery](https://github.com/leonardoramcke/bitcoin-recovery) | GUI tool to recover Bitcoin wallets from incomplete BIP39 seed phrases. Runs 100... | Python | — |
-| [atividade-poo-java](https://github.com/leonardoramcke/atividade-poo-java) | No description provided. | Java | ⭐ 1 |
-| [atividade.py](https://github.com/leonardoramcke/atividade.py) | colab.research | Python | ⭐ 1 |
+| [atividade-poo-java](https://github.com/leonardoramcke/atividade-poo-java) | Academic activity developed for the Object-Oriented Programming course at Anhang... | Java | ⭐ 1 |
+| [atividade.py](https://github.com/leonardoramcke/atividade.py) | Academic activity developed for the Python Programming course at Anhanguera Univ... | Python | ⭐ 1 |
 
-<sub>Last updated: 2026-05-10 18:59 UTC</sub>
+<sub>Last updated: 2026-05-11 04:00 UTC</sub>
 <!-- PROJECTS:END -->
 
 ---
