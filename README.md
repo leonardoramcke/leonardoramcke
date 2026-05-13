@@ -1,75 +1,85 @@
-# 👋 Hi, I'm Leonardo Ramcke
+# 👨‍💻 Leonardo Ramcke
 
-**`Developer | Blockchain Enthusiast | Open Source`**
+<div align="center">
 
-Passionate about building practical tools, working with blockchain technology, and solving real-world problems through code. Currently focused on Python development and Web3/blockchain projects.
+### Developer • Blockchain Enthusiast • Open Source
 
----
+Passionate about building practical tools, blockchain applications, and automation solutions using Python and Web3 technologies.
 
-### 🛠️ Languages & Technologies
-
-<p align="left">
-  <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  &nbsp;&nbsp;
-  <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-  &nbsp;&nbsp;
-  <img alt="Solidity" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg"/>
-  &nbsp;&nbsp;
-  <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  &nbsp;&nbsp;
-  <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  &nbsp;&nbsp;
-  <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  &nbsp;&nbsp;
-  <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  &nbsp;&nbsp;
-  <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-</p>
+</div>
 
 ---
 
-### 🔗 Blockchain & Web3
+## 🚀 About Me
 
-- **Solidity** — Smart contract development on EVM-compatible networks
-- **BIP39 / BIP32 / BIP84** — Bitcoin wallet standards and derivation paths
-- **Bitcoin** — UTXO model, address types (Legacy, SegWit, Native SegWit)
-- **Web3** — Decentralized application concepts and on-chain interactions
-
----
-
-### 🚀 Latest Projects
-
-<!-- PROJECTS:START -->
-| Project | Description | Language | Stars |
-|---|---|---|---|
-| [bitcoin-recovery](https://github.com/leonardoramcke/bitcoin-recovery) | GUI tool to recover Bitcoin wallets from incomplete BIP39 seed phrases. Runs 100... | Python | — |
-| [atividade-poo-java](https://github.com/leonardoramcke/atividade-poo-java) | Academic activity developed for the Object-Oriented Programming course at Anhang... | Java | ⭐ 1 |
-| [atividade.py](https://github.com/leonardoramcke/atividade.py) | Academic activity developed for the Python Programming course at Anhanguera Univ... | Python | ⭐ 1 |
-
-<sub>Last updated: 2026-05-13 14:47 UTC</sub>
-<!-- PROJECTS:END -->
+- 🎓 Computer Engineering student at Anhanguera University
+- 🧠 Focused on Python, Blockchain, Web3, and Automation
+- ⚙️ Developing practical tools and open-source projects
+- 🔐 Studying Bitcoin standards such as BIP39, BIP32, and BIP84
+- 🌐 Interested in decentralized technologies and smart contracts
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=leonardoramcke&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoramcke&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9"
-  />
-</p>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/><br>
+<b>Python</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/><br>
+<b>Java</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="55"/><br>
+<b>Solidity</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/><br>
+<b>JavaScript</b>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/><br>
+<b>HTML5</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/><br>
+<b>CSS3</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/><br>
+<b>Git</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/><br>
+<b>GitHub</b>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-### 📫 Contact
+## 🔗 Blockchain & Web3
 
-- GitHub: [@leonardoramcke](https://github.com/leonardoramcke)
-
----
-
-*"Code is the closest thing we have to a superpower."*
+```txt
+✔ Smart Contracts with Solidity
+✔ Bitcoin Wallet Recovery Tools
+✔ BIP39 / BIP32 / BIP84
+✔ Legacy, SegWit & Native SegWit
+✔ Web3 & Decentralized Applications
+✔ Blockchain Automation Scripts
